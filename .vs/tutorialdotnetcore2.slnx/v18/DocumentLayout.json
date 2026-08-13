@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE6DE243-FB7B-4289-99EC-89B30C8EBF7E}|tutorialdotnetcore2.csproj|c:\\users\\roger\\source\\repos\\tutorialdotnetcore2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6DE243-FB7B-4289-99EC-89B30C8EBF7E}|tutorialdotnetcore2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|c:\\users\\roger\\source\\repos\\tutorialdotnetcore2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-11T17:53:07.672Z",
               "EditorCaption": ""

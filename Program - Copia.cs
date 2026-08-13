@@ -1,30 +1,17 @@
 //Program.cs
-Console.Write("Escribe tu nombre completo:");
-string nombreCompleto = Console.ReadLine() ?? "";
+Console.Write("Escribe una palabra: ");
+string? palabra = Console.ReadLine() ?? "";
 
-string[] partes = nombreCompleto.Trim().Split(' ');
-Console.WriteLine($"Cantidad de palabras:{partes.Length}");
-Console.WriteLine($"Nombre en mayúscula: {nombreCompleto.ToUpper()}");
-Console.WriteLine($"¿Contiene 'Roger'?: {nombreCompleto.Contains("Roger")}");
+int vocales = 0;
 
-if(partes.Length > 0)
-{
-    Console.WriteLine($"Inciales: {String.Join("", partes.Select(p => p[0]))}");
+foreach (char c in palabra.ToLower()) {
+    if ("aeiouáéíóúü".Contains(c)) {
+        vocales++;
+    }
 }
 
-//Console.Write("Escribe una palabra: ");
-//string? palabra = Console.ReadLine() ?? "";
-
-//int vocales = 0;
-
-//foreach (char c in palabra.ToLower()) {
-//    if ("aeiouáéíóúü".Contains(c)) {
-//        vocales++;
-//    }
-//}
-
-//Console.WriteLine($"La palabra tiene: {vocales} vocales.");
-//Console.WriteLine($"Primera letra en mayuscula: {char.ToUpper(palabra[0])}");
+Console.WriteLine($"La palabra tiene: {vocales} vocales.");
+Console.WriteLine($"Primera letra en mayuscula: {char.ToUpper(palabra[0])}");
 
 //Console.WriteLine("¿Tienes más de 18 años? (true/false)");
 //bool esMayor = bool.Parse(Console.ReadLine() ?? "false");
