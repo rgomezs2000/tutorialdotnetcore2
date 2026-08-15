@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|c:\\users\\roger\\source\\repos\\tutorialdotnetcore2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|c:\\users\\roger\\source\\repos\\tutorialdotnetcore2\\tipodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|solutionrelative:tipodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|c:\\users\\roger\\source\\repos\\tutorialdotnetcore2\\cadenacaracteres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|solutionrelative:cadenacaracteres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|c:\\users\\roger\\source\\repos\\tutorialdotnetcore2\\tipocaracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|solutionrelative:tipocaracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|c:\\users\\roger\\source\\repos\\tutorialdotnetcore2\\datosbooleanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|solutionrelative:datosbooleanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|c:\\users\\roger\\source\\repos\\tutorialdotnetcore2\\datosnumericos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|solutionrelative:datosnumericos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|c:\\users\\roger\\source\\repos\\tutorialdotnetcore2\\primerospasosdotnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B188487D-D59C-58C2-88C2-84004455893C}|tutorialdotnetcore2.csproj|solutionrelative:primerospasosdotnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadenaCaracteres.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\CadenaCaracteres.cs",
+              "RelativeDocumentMoniker": "CadenaCaracteres.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\CadenaCaracteres.cs",
+              "RelativeToolTip": "CadenaCaracteres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T00:05:17.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoCaracter.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\TipoCaracter.cs",
+              "RelativeDocumentMoniker": "TipoCaracter.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\TipoCaracter.cs",
+              "RelativeToolTip": "TipoCaracter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T21:55:01.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatosBooleanos.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\DatosBooleanos.cs",
+              "RelativeDocumentMoniker": "DatosBooleanos.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\DatosBooleanos.cs",
+              "RelativeToolTip": "DatosBooleanos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T21:31:24.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatosNumericos.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\DatosNumericos.cs",
+              "RelativeDocumentMoniker": "DatosNumericos.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\DatosNumericos.cs",
+              "RelativeToolTip": "DatosNumericos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T20:01:53.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\TipoDatos.cs",
+              "RelativeDocumentMoniker": "TipoDatos.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\TipoDatos.cs",
+              "RelativeToolTip": "TipoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T19:53:55.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrimerosPasosDotNET.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\PrimerosPasosDotNET.cs",
+              "RelativeDocumentMoniker": "PrimerosPasosDotNET.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\PrimerosPasosDotNET.cs",
+              "RelativeToolTip": "PrimerosPasosDotNET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T19:17:37.517Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +126,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\roger\\source\\repos\\tutorialdotnetcore2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-11T17:53:07.672Z",
               "EditorCaption": ""
