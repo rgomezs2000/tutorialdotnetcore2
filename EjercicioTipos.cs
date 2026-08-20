@@ -12,7 +12,11 @@ namespace tutorialdotnetcore2
 
             var datos = PedirDatos();
 
-            Console.WriteLine("\n=== FICHA DE REGISTRO DE USUARIO ===\n");
+            Console.WriteLine("\n=== PROICESANDO DATOS ===\n");
+
+            var restultado = ProcesadoDatos(datos);
+
+            MostrarResumen(datos, restultado);
 
         }
 

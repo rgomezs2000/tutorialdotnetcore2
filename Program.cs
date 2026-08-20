@@ -13,4 +13,5 @@ using tutorialdotnetcore2;
 //DatosNumericos.DatoNumero();
 //DatosBooleanos.DatoBool();
 //TipoCaracter.TipoChar();
-CadenaCaracteres.LeerSring();
+//CadenaCaracteres.LeerSring();
+CompraProducto.Ejecutar();
